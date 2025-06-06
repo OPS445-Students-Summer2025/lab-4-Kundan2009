@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: [seneca_id]
+# Author ID: 157024225
 
 def is_digits(sobj):
     # Loop through each character in sobj and check if all are digits
