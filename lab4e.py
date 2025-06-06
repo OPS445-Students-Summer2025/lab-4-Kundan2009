@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Author ID: 157024225
+# AUthor name: Kundan Patel
 
 def is_digits(sobj):
     # Loop through each character in sobj and check if all are digits
