@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-#!/usr/bin/env python3
-# Strings 1
 
 str1 = 'Hello World!!'
 str2 = 'Seneca College'
